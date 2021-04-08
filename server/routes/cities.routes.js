@@ -17,4 +17,4 @@ router.put('/:id', cityController.update);
 // Delete a employee with id
 router.delete('/:id', cityController.delete);
 
-module.exports = router
+module.exports = router;
