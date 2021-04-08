@@ -30,4 +30,11 @@ Based on this tutorial:
 https://medium.com/@rahulguptalive/create-crud-apis-in-nodejs-express-and-mysql-abda4dfc2d6
 
 ## HW ScreenShots 
+####Delete id=236 column
+![alt text](https://github.com/yt249/is219_crud_api/blob/master/src/img/deleted%20236.png)
 
+####The origin data of id=1
+![alt text](https://github.com/yt249/is219_crud_api/blob/master/src/img/origin%201.png)
+
+####Updated data of id=1
+![alt text](https://github.com/yt249/is219_crud_api/blob/master/src/img/put.png)
